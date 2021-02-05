@@ -1,0 +1,20 @@
+﻿CREATE TABLE [StoricoAggiornamenti] (
+[id_update] int PRIMARY KEY IDENTITY,
+[number_old] int,
+[number_new] int,
+[full_name_old] varchar(100),
+[full_name_new] varchar(100),
+[country_old] char(2),
+[country_new] char(2),
+[date_birth_old] date,
+[date_birth_new] date,
+[team_id_old] int,
+[team_id_new] int,
+[podiums_number_old] int,
+[podiums_number_new] int,
+[helmet_image_old] image,
+[helmet_image_new] image,
+[full_image_old] image,
+[full_image_new] image,
+[date_time] datetime DEFAULT CURRENT_TIMESTAMP
+);
