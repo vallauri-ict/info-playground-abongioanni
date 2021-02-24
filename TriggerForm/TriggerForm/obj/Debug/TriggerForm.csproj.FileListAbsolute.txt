@@ -1,0 +1,10 @@
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\bin\Debug\TriggerForm.exe.config
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\bin\Debug\TriggerForm.exe
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\bin\Debug\TriggerForm.pdb
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.csprojAssemblyReference.cache
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.Properties.Resources.resources
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.csproj.GenerateResource.cache
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.exe
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.pdb
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.FormDrivers.resources
+D:\VALERIO\00_Scuola\02-Informatica\TriggerForm\TriggerForm\obj\Debug\TriggerForm.FormInsert.resources
